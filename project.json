@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0-*",
+  "description": "reactTest Console Application",
+  "authors": [ "" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+  "tooling": {
+    "defaultNamespace": "reactTest"
+  },
+
+  "dependencies": {
+    "Nil.js": "1.4.793",
+    "Jint" : "2.7.1"
+  },
+  
+
+  "commands": {
+    "run": "reactTest"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+    
+  }
+}
